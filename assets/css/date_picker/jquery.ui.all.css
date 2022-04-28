@@ -1,0 +1,29 @@
+/*!
+ * jQuery UI CSS Framework 1.9.2
+ * http://jqueryui.com
+ *
+ * Copyright 2012 jQuery Foundation and other contributors
+ * Released under the MIT license.
+ * http://jquery.org/license
+ *
+ * http://docs.jquery.com/UI/Theming
+ */
+@import "jquery.ui.datepicker.min.css";
+@import "jquery.ui.theme.min.css";
+@import "jquery-ui.structure.css";
+
+.custom-combobox {
+    position: relative;
+    display: inline-block;
+  }
+  .custom-combobox-toggle {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    margin-left: -1px;
+    padding: 0;
+  }
+  .custom-combobox-input {
+    margin: 0;
+    padding: 5px 10px;
+  }

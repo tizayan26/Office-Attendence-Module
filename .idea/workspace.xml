@@ -1,0 +1,340 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="66a4eb25-f128-496c-aa9f-adbfad7c87c5" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="administrator.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/application/controllers/administrator.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="432">
+              <caret line="1522" column="46" lean-forward="false" selection-start-line="1522" selection-start-column="46" selection-end-line="1522" selection-end-column="46" />
+              <folding>
+                <marker date="1533556075589" expanded="true" signature="67730:68337" ph="..." />
+                <marker date="1533556075589" expanded="true" signature="67752:68321" ph="{...}" />
+                <marker date="1533556075589" expanded="true" signature="67784:68028" ph="{&quot;scrollY&quot;: &quot;100px&quot;...}" />
+                <marker date="1533556075589" expanded="true" signature="68061:68305" ph="{&quot;scrollY&quot;: &quot;100px&quot;...}" />
+                <marker date="1533556075589" expanded="true" signature="85762:91330" ph="INSERT INTO `tbl_employe_list_info`... " />
+                <marker date="1533556075589" expanded="true" signature="85799:91327" ph="SELECT DISTI... tbl_user_info" />
+                <marker date="1533556075589" expanded="true" signature="85842:85959" ph="SELECT tbl_e... tbl_employee_profile" />
+                <marker date="1533556075589" expanded="true" signature="86269:87801" ph="SELECT DISTI... adddate" />
+                <marker date="1533556075589" expanded="true" signature="86313:87175" ph="select addda... i" />
+                <marker date="1533556075589" expanded="true" signature="87442:87800" ph="SELECT DISTI... tbl_login_record" />
+                <marker date="1533556075589" expanded="true" signature="87859:88280" ph="SELECT SUM( tbl_leave_record" />
+                <marker date="1533556075589" expanded="true" signature="88339:88748" ph="SELECT DISTI... tbl_holiday_info" />
+                <marker date="1533556075589" expanded="true" signature="88808:89202" ph="SELECT DISTI... tbl_tour_info" />
+                <marker date="1533556075589" expanded="true" signature="89225:90630" ph="select COUNT... adddate" />
+                <marker date="1533556075589" expanded="true" signature="89259:90121" ph="select addda... i" />
+                <marker date="1533556075589" expanded="true" signature="90264:90628" ph="SELECT (CASE... tbl_work_days" />
+                <marker date="1533556075589" expanded="true" signature="92390:93186" ph="UPDATE tbl_l... " />
+                <marker date="1533556075589" expanded="true" signature="92428:93017" ph="SELECT (CASE... tbl_work_days" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="administrator_model.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/models/administrator_model.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="483">
+              <caret line="2575" column="46" lean-forward="false" selection-start-line="2575" selection-start-column="35" selection-end-line="2575" selection-end-column="46" />
+              <folding>
+                <marker date="1532519578595" expanded="true" signature="10004:10337" ph="..." />
+                <marker date="1532519578595" expanded="true" signature="10010:10330" ph="..." />
+                <marker date="1532519578595" expanded="true" signature="10156:10323" ph="..." />
+                <marker date="1532519578595" expanded="true" signature="44676:44722" ph="..." />
+                <marker date="1532519578595" expanded="true" signature="44834:44894" ph="..." />
+                <marker date="1532519578595" expanded="true" signature="47534:47549" ph="..." />
+                <marker date="1532519578595" expanded="true" signature="59018:59033" ph="..." />
+                <marker date="1532519578595" expanded="true" signature="70656:70671" ph="..." />
+                <marker date="1532519578595" expanded="true" signature="121744:121782" ph="..." />
+                <marker date="1532519578595" expanded="true" signature="121977:121997" ph="..." />
+                <marker date="1532519578595" expanded="true" signature="136755:136795" ph="..." />
+                <marker date="1532519578595" expanded="true" signature="137632:137672" ph="..." />
+                <marker date="1532519578595" expanded="true" signature="149724:150911" ph="SELECT * fro... adddate" />
+                <marker date="1532519578595" expanded="true" signature="149740:150602" ph="select addda... i" />
+                <marker date="1532519578595" expanded="true" signature="150725:150910" ph="SELECT tbl_l... tbl_login_record" />
+                <marker date="1532519578595" expanded="true" signature="150938:152125" ph="SELECT * fro... adddate" />
+                <marker date="1532519578595" expanded="true" signature="150954:151816" ph="select addda... i" />
+                <marker date="1532519578595" expanded="true" signature="151939:152124" ph="SELECT tbl_l... tbl_login_record" />
+                <marker date="1532519578595" expanded="true" signature="152720:153524" ph="..." />
+                <marker date="1532519578595" expanded="true" signature="152832:153524" ph="..." />
+                <marker date="1532519578595" expanded="false" signature="153269:153275" ph=" " />
+                <marker date="1532519578595" expanded="false" signature="153497:153503" ph=" " />
+                <marker date="1532519578595" expanded="true" signature="159690:160029" ph="SELECT DATED... " />
+                <marker date="1532519578595" expanded="true" signature="166541:167227" ph="..." />
+                <marker date="1532519578595" expanded="true" signature="166653:167227" ph="..." />
+                <marker date="1532519578595" expanded="true" signature="184231:184580" ph="..." />
+                <marker date="1532519578595" expanded="true" signature="184289:184580" ph="..." />
+                <marker date="1532519578595" expanded="true" signature="184343:184580" ph="..." />
+                <marker date="1532519578595" expanded="true" signature="184363:184534" ph="..." />
+                <marker date="1532519578595" expanded="false" signature="184562:184579" ph="..." />
+                <marker date="1532519578595" expanded="true" signature="185781:186099" ph="..." />
+                <marker date="1532519578595" expanded="true" signature="185840:186099" ph="..." />
+                <marker date="1532519578595" expanded="true" signature="185894:186099" ph="..." />
+                <marker date="1532519578595" expanded="true" signature="185914:186053" ph="..." />
+                <marker date="1532519578595" expanded="false" signature="186081:186098" ph="..." />
+                <marker date="1532519578595" expanded="true" signature="206559:207245" ph="..." />
+                <marker date="1532519578595" expanded="true" signature="206671:207245" ph="..." />
+                <marker date="1532519578595" expanded="true" signature="231562:231577" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>employee_Lsi</find>
+      <find>load_EmployeeListViewInfo</find>
+    </findStrings>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-1288" />
+    <option name="y" value="-8" />
+    <option name="width" value="1296" />
+    <option name="height" value="1000" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ci_at" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ci_at" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ci_at" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ci_at" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="application" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ci_at" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ci_at" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="application" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="models" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ci_at" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ci_at" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="application" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="controllers" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="66a4eb25-f128-496c-aa9f-adbfad7c87c5" name="Default" comment="" />
+      <created>1536062259964</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1536062259964</updated>
+      <workItem from="1536062268751" duration="1194000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1194000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-1288" y="-8" width="1296" height="1000" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/application/models/administrator_model.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="483">
+          <caret line="2575" column="46" lean-forward="false" selection-start-line="2575" selection-start-column="35" selection-end-line="2575" selection-end-column="46" />
+          <folding>
+            <marker date="1532519578595" expanded="true" signature="10004:10337" ph="..." />
+            <marker date="1532519578595" expanded="true" signature="10010:10330" ph="..." />
+            <marker date="1532519578595" expanded="true" signature="10156:10323" ph="..." />
+            <marker date="1532519578595" expanded="true" signature="44676:44722" ph="..." />
+            <marker date="1532519578595" expanded="true" signature="44834:44894" ph="..." />
+            <marker date="1532519578595" expanded="true" signature="47534:47549" ph="..." />
+            <marker date="1532519578595" expanded="true" signature="59018:59033" ph="..." />
+            <marker date="1532519578595" expanded="true" signature="70656:70671" ph="..." />
+            <marker date="1532519578595" expanded="true" signature="121744:121782" ph="..." />
+            <marker date="1532519578595" expanded="true" signature="121977:121997" ph="..." />
+            <marker date="1532519578595" expanded="true" signature="136755:136795" ph="..." />
+            <marker date="1532519578595" expanded="true" signature="137632:137672" ph="..." />
+            <marker date="1532519578595" expanded="true" signature="149724:150911" ph="SELECT * fro... adddate" />
+            <marker date="1532519578595" expanded="true" signature="149740:150602" ph="select addda... i" />
+            <marker date="1532519578595" expanded="true" signature="150725:150910" ph="SELECT tbl_l... tbl_login_record" />
+            <marker date="1532519578595" expanded="true" signature="150938:152125" ph="SELECT * fro... adddate" />
+            <marker date="1532519578595" expanded="true" signature="150954:151816" ph="select addda... i" />
+            <marker date="1532519578595" expanded="true" signature="151939:152124" ph="SELECT tbl_l... tbl_login_record" />
+            <marker date="1532519578595" expanded="true" signature="152720:153524" ph="..." />
+            <marker date="1532519578595" expanded="true" signature="152832:153524" ph="..." />
+            <marker date="1532519578595" expanded="false" signature="153269:153275" ph=" " />
+            <marker date="1532519578595" expanded="false" signature="153497:153503" ph=" " />
+            <marker date="1532519578595" expanded="true" signature="159690:160029" ph="SELECT DATED... " />
+            <marker date="1532519578595" expanded="true" signature="166541:167227" ph="..." />
+            <marker date="1532519578595" expanded="true" signature="166653:167227" ph="..." />
+            <marker date="1532519578595" expanded="true" signature="184231:184580" ph="..." />
+            <marker date="1532519578595" expanded="true" signature="184289:184580" ph="..." />
+            <marker date="1532519578595" expanded="true" signature="184343:184580" ph="..." />
+            <marker date="1532519578595" expanded="true" signature="184363:184534" ph="..." />
+            <marker date="1532519578595" expanded="false" signature="184562:184579" ph="..." />
+            <marker date="1532519578595" expanded="true" signature="185781:186099" ph="..." />
+            <marker date="1532519578595" expanded="true" signature="185840:186099" ph="..." />
+            <marker date="1532519578595" expanded="true" signature="185894:186099" ph="..." />
+            <marker date="1532519578595" expanded="true" signature="185914:186053" ph="..." />
+            <marker date="1532519578595" expanded="false" signature="186081:186098" ph="..." />
+            <marker date="1532519578595" expanded="true" signature="206559:207245" ph="..." />
+            <marker date="1532519578595" expanded="true" signature="206671:207245" ph="..." />
+            <marker date="1532519578595" expanded="true" signature="231562:231577" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/administrator.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="1522" column="46" lean-forward="false" selection-start-line="1522" selection-start-column="46" selection-end-line="1522" selection-end-column="46" />
+          <folding>
+            <marker date="1533556075589" expanded="true" signature="67730:68337" ph="..." />
+            <marker date="1533556075589" expanded="true" signature="67752:68321" ph="{...}" />
+            <marker date="1533556075589" expanded="true" signature="67784:68028" ph="{&quot;scrollY&quot;: &quot;100px&quot;...}" />
+            <marker date="1533556075589" expanded="true" signature="68061:68305" ph="{&quot;scrollY&quot;: &quot;100px&quot;...}" />
+            <marker date="1533556075589" expanded="true" signature="85762:91330" ph="INSERT INTO `tbl_employe_list_info`... " />
+            <marker date="1533556075589" expanded="true" signature="85799:91327" ph="SELECT DISTI... tbl_user_info" />
+            <marker date="1533556075589" expanded="true" signature="85842:85959" ph="SELECT tbl_e... tbl_employee_profile" />
+            <marker date="1533556075589" expanded="true" signature="86269:87801" ph="SELECT DISTI... adddate" />
+            <marker date="1533556075589" expanded="true" signature="86313:87175" ph="select addda... i" />
+            <marker date="1533556075589" expanded="true" signature="87442:87800" ph="SELECT DISTI... tbl_login_record" />
+            <marker date="1533556075589" expanded="true" signature="87859:88280" ph="SELECT SUM( tbl_leave_record" />
+            <marker date="1533556075589" expanded="true" signature="88339:88748" ph="SELECT DISTI... tbl_holiday_info" />
+            <marker date="1533556075589" expanded="true" signature="88808:89202" ph="SELECT DISTI... tbl_tour_info" />
+            <marker date="1533556075589" expanded="true" signature="89225:90630" ph="select COUNT... adddate" />
+            <marker date="1533556075589" expanded="true" signature="89259:90121" ph="select addda... i" />
+            <marker date="1533556075589" expanded="true" signature="90264:90628" ph="SELECT (CASE... tbl_work_days" />
+            <marker date="1533556075589" expanded="true" signature="92390:93186" ph="UPDATE tbl_l... " />
+            <marker date="1533556075589" expanded="true" signature="92428:93017" ph="SELECT (CASE... tbl_work_days" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
